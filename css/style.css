@@ -36,7 +36,7 @@ img {
 #inner-header {
     /* padrão linha */
     display: flex; 
-    /* alinhamento é hotizontal, eixo x */
+    /* alinhamento é horizontal, eixo x */
     justify-content: space-between;
     /* alinhamento vertical, eixo y */
     align-items: center;
@@ -55,13 +55,13 @@ img {
 }
 
 #navbar a {
-    color: var(--primary-text-color)
+    color: var(--primary-text-color);    
     font-weight: bold;  
     padding: 1rem;  
 }
 
 .banner.active{
-    opacity: 1;/*Banner ativo é mostrado */
+    opacity: 1; /*Banner ativo é mostrado */
 }
 
 .banner{
